@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aula802"
+    }
+  },
+  "defaultProject": "aula802",
+  "cli": {
+    "analytics": false
+  }
 }
